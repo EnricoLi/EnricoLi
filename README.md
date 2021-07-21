@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enricoli&theme=great-gatsby&show_icons=true?theme=great-gatsby)
 
 <a href="https://github.com/ashwanisng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisng&theme=great-gatsby&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricoli&theme=great-gatsby&hide=glsl,python" />
 </a>
 
 <!---
