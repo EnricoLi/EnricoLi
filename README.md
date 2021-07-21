@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Enrico Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=enricoli&?theme=great-gatsby&show_icons=true?)
+![Enrico Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=enricoli&theme=great-gatsby&show_icons=true?theme=great-gatsby)
 
 <!---
 EnricoLi/EnricoLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
