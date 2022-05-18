@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enricoli&label=Profile%20views&color=0e75b6&style=flat" alt="enricoli" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enricoli" alt="enricoli" /></a> </p>
-
 - 🔭 I’m currently working on **My Portfolio Website**
 
 - 🌱 I’m currently learning **JavaScript, React, Next, TypeScript, Django, Nodejs, Bootstrap, GraphQL and Gatsby.**
