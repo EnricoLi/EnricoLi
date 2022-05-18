@@ -17,7 +17,7 @@
 <a href="https://discord.gg/Souji#5090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Souji#5090" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enricoli&&theme=dark&show_icons=true&locale=en" alt="enricoli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enricoli&&theme=midnight-purple&show_icons=true&locale=en" alt="enricoli" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enricoli&show_icons=true&locale=en&layout=compact" alt="enricoli" /></p>
 
