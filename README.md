@@ -9,9 +9,11 @@
 
 - 📫 How to reach me **enricolima.eng@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enricoli&theme=midnight-purple&show_icons=true&locale=en" alt="enricoli" /></p>
+<div align="center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enricoli&theme=midnight-purple&show_icons=true&locale=en" alt="enricoli" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enricoli&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="enricoli" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enricoli&theme=midnight-purple&show_icons=true&locale=en&layout=compact"       alt="enricoli" /></p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
